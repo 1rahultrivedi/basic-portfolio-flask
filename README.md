@@ -1,1 +1,1 @@
-# basic-portfolio-flask
+This project is a simple yet elegant personal portfolio website built using Python Flask, HTML, and CSS. It showcases basic web development and backend rendering using the Flask framework. The goal of this project is to display personal information, skills, projects, and contact details in a clean and responsive format.
