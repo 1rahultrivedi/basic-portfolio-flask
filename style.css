@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+    background: #f4f4f4;
+    color: #333;
+}
+
+.container {
+    width: 80%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: #333;
+    color: #fff;
+    padding: 20px 0;
+    text-align: center;
+}
+
+h1, h2 {
+    color: #444;
+}
+
+section {
+    margin: 20px 0;
+    padding: 10px;
+    background: #dfdfdf;
+    border-radius: 5px;
+}
